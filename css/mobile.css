@@ -1,0 +1,16 @@
+/* 
+
+* hamburger menu,
+* basic font smaller -> rem size adjust
+* services: 
+  - flex column
+  - inner flex row 
+  - icon left
+
+* no p in showcase
+
+*/
+
+.servicios-container {
+  flex-direction: column;
+}

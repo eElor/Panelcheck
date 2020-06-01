@@ -1,0 +1,46 @@
+(Header)
+logo | Servicios  |  Clientes  |  Contacto y cotización
+
+################################################
+
+Panelcheck
+(+ slogan "solución en ispección de paneles solares")
+
+################################################
+
+Servicios
+- Inspección térmica aérea de páneles solares
+  - Orthomosáicos
+  - Videos
+  - Foto individual
+- Inspección aérea y térmica aérea de techos
+- Modelos 3D 
+    - estructuras y terrenos
+- Generación de reporte final de inspección
+
+(cada servicio con un logo, que al picarle se haga grande y muestre una imagen y pequena descripción (para qué el servicio))
+
+################################################
+
+Clientes y comentarios
+
+################################################
+
+Demo y fotos
+
+################################################
+
+Contacto
+
+- Nombre
+- Mail
+- Teléfono
+- descripción del proyecto
+
+Cotización
+
+- modelo 3D
+[] àerea del terreno [número] [unidad(m2, hectar)]
+[] número de páneles (1-10; 11-20; 21-50; 51-100; 100-200; 200-400; >400)
+[] número de inspecciónes (1,2 ... 5)
+[] lugar

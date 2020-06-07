@@ -1,3 +1,29 @@
 .logo-title {
   display: none;
 }
+
+.panel-icon {
+  height: 60px;
+  margin-right: 0.1rem;
+}
+
+.techo-icon {
+  height: 60px;
+  margin-right: 0.3rem;
+}
+
+.tresd-icon {
+  height: 60px;
+  margin-right: 0.3rem;
+}
+
+h3 {
+  line-height: 1.2;
+  font-size: 23px;
+  margin: 1rem;
+  text-transform: capitalize;
+}
+
+.servicio {
+  margin: 1rem 0 1rem 0;
+}
